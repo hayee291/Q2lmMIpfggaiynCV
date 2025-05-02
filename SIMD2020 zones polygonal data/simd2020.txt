@@ -1,0 +1,6 @@
+b)	SIMD:
+Download: https://www.macs.hw.ac.uk/~pb56/bigdatamanagementcw2/simd2020.sql 
+•	A copy of the Scottish Index of Multiple Deprivation 2020 to be loaded into PostgreSQL with a geometry column (i.e. requires the PostGIS extension)
+•	Social Index of Multiple Deprivation (SIMD) is a polygonal spatial dataset which shows the affluence of regions across the city of Edinburgh. 
+•	It uses the same coordinate system (EPSG:4326) as the lat/lng coordinates of the bus dataset
+•	Source: https://www.gov.scot/collections/scottish-index-of-multiple-deprivation-2020 
